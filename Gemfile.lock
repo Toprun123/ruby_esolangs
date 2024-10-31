@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.7.2)
+    rake (13.2.1)
+    sorbet (0.5.11406)
+      sorbet-static (= 0.5.11406)
+    sorbet-static (0.5.11406-x86_64-linux)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  json
+  rake
+  sorbet
+
+BUNDLED WITH
+   2.5.4
